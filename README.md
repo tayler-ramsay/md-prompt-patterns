@@ -1,0 +1,1 @@
+# md-prompt-patterns
